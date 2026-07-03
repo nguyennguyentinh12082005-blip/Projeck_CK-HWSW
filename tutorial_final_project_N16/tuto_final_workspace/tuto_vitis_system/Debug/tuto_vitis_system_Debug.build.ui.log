@@ -1,0 +1,10 @@
+2026-06-12T13:03:38.921689900255-13:03:38 **** Build of configuration Debug for project tuto_vitis_system ****
+000-make all 
+000-Generating bif file for the system project
+000-generate_system_bif.bat 58439 F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm standalone_domain F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/tuto_vitis_system/Debug/system.bif
+000-sdcard_gen --xpfm F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm --sys_config design_1_wrapper --bif F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/tuto_vitis_system/Debug/system.bif --bitstream F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/tuto_vitis/_ide/bitstream/design_1_wrapper.bit --elf F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/tuto_vitis/Debug/tuto_vitis.elf,ps7_cortexa9_0
+000-creating BOOT.BIN using F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/tuto_vitis/_ide/bitstream/design_1_wrapper.bit
+000-Running C:/Xilinx/Vitis/Vitis/2019.2/bin/bootgen  -image F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/tuto_vitis_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+00255-
+13:03:43 Build Finished (took 4s.554ms)
+

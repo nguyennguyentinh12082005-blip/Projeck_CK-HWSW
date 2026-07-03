@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../tutorial_final_project.srcs/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../tutorial_final_project.srcs/sources_1/bd/design_1/ipshared/2d50/hdl" --include "C:/Xilinx/Vitis/Vivado/2019.2/data/xilinx_vip/include" \
+"../../../../tutorial_final_project.srcs/sim_1/new/tb_fft.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

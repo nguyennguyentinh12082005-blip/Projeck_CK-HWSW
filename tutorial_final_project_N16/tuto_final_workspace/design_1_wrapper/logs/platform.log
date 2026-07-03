@@ -1,0 +1,2213 @@
+TRACE::2026-06-12.13:02:03::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:03::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:03::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:05::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:05::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:05::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:05::SCWPlatform::Do not have an existing db opened. 
+TRACE::2026-06-12.13:02:06::SCWPlatform::Opened new HwDB with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:06::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2026-06-12.13:02:06::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper"
+		}]
+}
+TRACE::2026-06-12.13:02:06::SCWPlatform::Boot application domains not present, creating them
+TRACE::2026-06-12.13:02:06::SCWDomain::checking for install qemu data   : 
+TRACE::2026-06-12.13:02:06::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/
+TRACE::2026-06-12.13:02:06::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt
+TRACE::2026-06-12.13:02:06::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:06::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:06::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:06::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:06::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:06::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:06::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:06::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:06::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:06::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:06::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:06::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:06::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:06::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:06::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:06::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:06::SCWPlatform::Boot application domain added for zynq_fsbl
+TRACE::2026-06-12.13:02:06::SCWPlatform::Generating the sources  .
+TRACE::2026-06-12.13:02:06::SCWBDomain::Generating boot domain sources.
+TRACE::2026-06-12.13:02:06::SCWBDomain:: Generating the zynq_fsbl Application.
+TRACE::2026-06-12.13:02:06::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:06::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:06::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:06::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:06::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:06::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:06::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:06::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:06::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:06::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2026-06-12.13:02:06::SCWMssOS::No sw design opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:06::SCWMssOS::mss does not exists at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:06::SCWMssOS::Creating sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:06::SCWMssOS::Adding the swdes entry, created swdb F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:06::SCWMssOS::updating the scw layer changes to swdes at   F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:06::SCWMssOS::Writing mss at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:06::SCWMssOS::Completed writing the mss file at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2026-06-12.13:02:06::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2026-06-12.13:02:06::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2026-06-12.13:02:06::SCWBDomain::Completed writing the mss file at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2026-06-12.13:02:10::SCWPlatform::Generating sources Done.
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss||
+
+KEYINFO::2026-06-12.13:02:10::SCWMssOS::Could not open the swdb for F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+KEYINFO::2026-06-12.13:02:10::SCWMssOS::Could not open the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss is not found
+
+TRACE::2026-06-12.13:02:10::SCWMssOS::Cleared the swdb table entry
+TRACE::2026-06-12.13:02:10::SCWMssOS::No sw design opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::mss exists loading the mss file  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::Opened the sw design from mss  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::Adding the swdes entry F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2026-06-12.13:02:10::SCWMssOS::updating the scw layer about changes
+TRACE::2026-06-12.13:02:10::SCWMssOS::Opened the sw design.  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:10::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:10::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:10::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"c46cc3715d8c4409611505be9cdf2e69",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.2", "xilrsa:1.5"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:10::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:10::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:10::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"c46cc3715d8c4409611505be9cdf2e69",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.2", "xilrsa:1.5"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2026-06-12.13:02:10::SCWDomain::checking for install qemu data   : 
+TRACE::2026-06-12.13:02:10::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/
+TRACE::2026-06-12.13:02:10::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:10::SCWMssOS::No sw design opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::mss does not exists at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::Creating sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::Adding the swdes entry, created swdb F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::updating the scw layer changes to swdes at   F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::Writing mss at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::Completed writing the mss file at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2026-06-12.13:02:10::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2026-06-12.13:02:10::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:10::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:10::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:10::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:10::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:10::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:10::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"c46cc3715d8c4409611505be9cdf2e69",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.2", "xilrsa:1.5"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:10::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:10::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:10::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:10::SCWMssOS::Completed writing the mss file at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2026-06-12.13:02:10::SCWMssOS::Forcing BSP Sources regeneration.
+LOG::2026-06-12.13:02:10::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2026-06-12.13:02:10::SCWPlatform::Sanity checking of platform is completed
+LOG::2026-06-12.13:02:11::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2026-06-12.13:02:11::SCWSystem::Checking the domain zynq_fsbl
+LOG::2026-06-12.13:02:11::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2026-06-12.13:02:11::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2026-06-12.13:02:11::SCWDomain::Skipping the build for domain :  zynq_fsbl
+LOG::2026-06-12.13:02:11::SCWSystem::Checking the domain standalone_domain
+LOG::2026-06-12.13:02:11::SCWSystem::Not a boot domain 
+LOG::2026-06-12.13:02:11::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2026-06-12.13:02:11::SCWDomain::Generating domain artifcats
+TRACE::2026-06-12.13:02:11::SCWMssOS::Generating standalone artifcats
+TRACE::2026-06-12.13:02:11::SCWMssOS::Copying the qemu file from  C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt To F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/qemu/
+TRACE::2026-06-12.13:02:11::SCWMssOS::Copying the qemu file from  C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt To F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_domain/qemu/
+TRACE::2026-06-12.13:02:11::SCWMssOS:: Copying the user libraries. 
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+KEYINFO::2026-06-12.13:02:11::SCWMssOS::Could not open the swdb for F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+KEYINFO::2026-06-12.13:02:11::SCWMssOS::Could not open the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss is not found
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Cleared the swdb table entry
+TRACE::2026-06-12.13:02:11::SCWMssOS::No sw design opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::mss exists loading the mss file  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::Opened the sw design from mss  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::Adding the swdes entry F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2026-06-12.13:02:11::SCWMssOS::updating the scw layer about changes
+TRACE::2026-06-12.13:02:11::SCWMssOS::Opened the sw design.  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::Completed writing the mss file at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2026-06-12.13:02:11::SCWMssOS::Mss edits present, copying mssfile into export location F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2026-06-12.13:02:11::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2026-06-12.13:02:11::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2026-06-12.13:02:11::SCWMssOS::skipping the bsp build ... 
+TRACE::2026-06-12.13:02:11::SCWMssOS::Copying to export directory.
+TRACE::2026-06-12.13:02:11::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2026-06-12.13:02:11::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2026-06-12.13:02:11::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2026-06-12.13:02:11::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2026-06-12.13:02:11::SCWSystem::Completed Processing the sysconfig design_1_wrapper
+LOG::2026-06-12.13:02:11::SCWPlatform::Completed generating the artifacts for system configuration design_1_wrapper
+TRACE::2026-06-12.13:02:11::SCWPlatform::Started preparing the platform 
+TRACE::2026-06-12.13:02:11::SCWSystem::Writing the bif file for system config design_1_wrapper
+TRACE::2026-06-12.13:02:11::SCWSystem::dir created 
+TRACE::2026-06-12.13:02:11::SCWSystem::Writing the bif 
+TRACE::2026-06-12.13:02:11::SCWPlatform::Started writing the spfm file 
+TRACE::2026-06-12.13:02:11::SCWPlatform::Started writing the xpfm file 
+TRACE::2026-06-12.13:02:11::SCWPlatform::Completed generating the platform
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"c46cc3715d8c4409611505be9cdf2e69",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.2", "xilrsa:1.5"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"4c20d4fd38032b4b82c04976bfd30b2b",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2026-06-12.13:02:11::SCWPlatform::updated the xpfm file.
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"c46cc3715d8c4409611505be9cdf2e69",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.2", "xilrsa:1.5"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"4c20d4fd38032b4b82c04976bfd30b2b",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"c46cc3715d8c4409611505be9cdf2e69",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.2", "xilrsa:1.5"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"4c20d4fd38032b4b82c04976bfd30b2b",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2026-06-12.13:02:11::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2026-06-12.13:02:11::SCWPlatform::Sanity checking of platform is completed
+LOG::2026-06-12.13:02:11::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2026-06-12.13:02:11::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2026-06-12.13:02:11::SCWDomain::Generating domain artifcats
+TRACE::2026-06-12.13:02:11::SCWMssOS::Generating standalone artifcats
+TRACE::2026-06-12.13:02:11::SCWMssOS::Copying the qemu file from  C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt To F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/qemu/
+TRACE::2026-06-12.13:02:11::SCWMssOS::Copying the qemu file from  C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt To F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_domain/qemu/
+TRACE::2026-06-12.13:02:11::SCWMssOS:: Copying the user libraries. 
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::Completed writing the mss file at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2026-06-12.13:02:11::SCWMssOS::Mss edits present, copying mssfile into export location F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2026-06-12.13:02:11::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2026-06-12.13:02:11::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2026-06-12.13:02:11::SCWMssOS::skipping the bsp build ... 
+TRACE::2026-06-12.13:02:11::SCWMssOS::Copying to export directory.
+TRACE::2026-06-12.13:02:11::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2026-06-12.13:02:11::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2026-06-12.13:02:11::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2026-06-12.13:02:11::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2026-06-12.13:02:11::SCWSystem::Completed Processing the sysconfig design_1_wrapper
+LOG::2026-06-12.13:02:11::SCWPlatform::Completed generating the artifacts for system configuration design_1_wrapper
+TRACE::2026-06-12.13:02:11::SCWPlatform::Started preparing the platform 
+TRACE::2026-06-12.13:02:11::SCWSystem::Writing the bif file for system config design_1_wrapper
+TRACE::2026-06-12.13:02:11::SCWSystem::dir created 
+TRACE::2026-06-12.13:02:11::SCWSystem::Writing the bif 
+TRACE::2026-06-12.13:02:11::SCWPlatform::Started writing the spfm file 
+TRACE::2026-06-12.13:02:11::SCWPlatform::Started writing the xpfm file 
+TRACE::2026-06-12.13:02:11::SCWPlatform::Completed generating the platform
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:02:11::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:02:11::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:02:11::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:02:11::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"c46cc3715d8c4409611505be9cdf2e69",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.2", "xilrsa:1.5"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"4c20d4fd38032b4b82c04976bfd30b2b",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2026-06-12.13:02:11::SCWPlatform::updated the xpfm file.
+LOG::2026-06-12.13:03:16::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2026-06-12.13:03:16::SCWPlatform::Sanity checking of platform is completed
+LOG::2026-06-12.13:03:16::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2026-06-12.13:03:16::SCWSystem::Checking the domain zynq_fsbl
+LOG::2026-06-12.13:03:16::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2026-06-12.13:03:16::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2026-06-12.13:03:16::SCWDomain::Building the domain as part of full build :  zynq_fsbl
+TRACE::2026-06-12.13:03:16::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:16::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:16::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:16::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:03:16::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:16::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:03:16::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:03:16::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:03:16::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:03:16::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:03:16::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:03:16::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:03:16::SCWBDomain::Completed writing the mss file at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2026-06-12.13:03:16::SCWBDomain::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2026-06-12.13:03:16::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2026-06-12.13:03:16::SCWBDomain::System Command Ran  F:&  cd  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl & make 
+TRACE::2026-06-12.13:03:16::SCWBDomain::make -C zynq_fsbl_bsp
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[1]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:16::SCWBDomain::nq_fsbl_bsp'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/axidma_v9_10/src"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make -C ps7_cortexa9_0/libsrc/axidma_v9_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2026-06-12.13:03:16::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2026-06-12.13:03:16::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:16::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/axidma_v9_10/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:16::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/axidma_v9_10/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_6/src"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2026-06-12.13:03:16::SCWBDomain::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2026-06-12.13:03:16::SCWBDomain::ard -nostartfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:16::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/coresightps_dcc_v1_6/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:16::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/coresightps_dcc_v1_6/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_8/src"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2026-06-12.13:03:16::SCWBDomain::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2026-06-12.13:03:16::SCWBDomain:: -nostartfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:16::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_8/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:16::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_8/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2026-06-12.13:03:16::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2026-06-12.13:03:16::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:16::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/ddrps_v1_0/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:16::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/ddrps_v1_0/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-06-12.13:03:16::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-06-12.13:03:16::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:16::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/devcfg_v3_5/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:16::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/devcfg_v3_5/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_5/src"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2026-06-12.13:03:16::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2026-06-12.13:03:16::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:16::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/dmaps_v2_5/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:16::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/dmaps_v2_5/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_1/src"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v4_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-06-12.13:03:16::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-06-12.13:03:16::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:16::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/scugic_v4_1/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:16::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/scugic_v4_1/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2026-06-12.13:03:16::SCWBDomain::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2026-06-12.13:03:16::SCWBDomain::startfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:16::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/scutimer_v2_1/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:16::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/scutimer_v2_1/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-06-12.13:03:16::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-06-12.13:03:16::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:16::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/scuwdt_v2_1/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:16::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/scuwdt_v2_1/src'
+
+TRACE::2026-06-12.13:03:16::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_1/src"
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v7_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2026-06-12.13:03:17::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2026-06-12.13:03:17::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:17::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7_1/src'
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make[3]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:17::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7_1/src/profile'
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make[3]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:17::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7_1/src/profile'
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:17::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7_1/src'
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_8/src"
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-06-12.13:03:17::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-06-12.13:03:17::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:17::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/uartps_v3_8/src'
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:17::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/uartps_v3_8/src'
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-06-12.13:03:17::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-06-12.13:03:17::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:17::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/xadcps_v2_3/src'
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:17::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/xadcps_v2_3/src'
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v4_2/src"
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-06-12.13:03:17::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-06-12.13:03:17::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:17::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilffs_v4_2/src'
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:17::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/xilffs_v4_2/src'
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_5/src"
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-06-12.13:03:17::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-06-12.13:03:17::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:17::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilrsa_v1_5/src'
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:17::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/xilrsa_v1_5/src'
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/axidma_v9_10/src"
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make -C ps7_cortexa9_0/libsrc/axidma_v9_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2026-06-12.13:03:17::SCWBDomain::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2026-06-12.13:03:17::SCWBDomain::tfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:17::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/axidma_v9_10/src'
+
+TRACE::2026-06-12.13:03:17::SCWBDomain::"Compiling axidma"
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::make[3]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:19::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/axidma_v9_10/src'
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::make[3]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:19::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/axidma_v9_10/src'
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:19::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/axidma_v9_10/src'
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_6/src"
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2026-06-12.13:03:19::SCWBDomain::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2026-06-12.13:03:19::SCWBDomain:: -nostartfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:19::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/coresightps_dcc_v1_6/src'
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::"Compiling coresightps_dcc"
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:19::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/coresightps_dcc_v1_6/src'
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_8/src"
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2026-06-12.13:03:19::SCWBDomain::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2026-06-12.13:03:19::SCWBDomain::ostartfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:19::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_8/src'
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::"Compiling cpu_cortexa9"
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:19::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_8/src'
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2026-06-12.13:03:19::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2026-06-12.13:03:19::SCWBDomain::iles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:19::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/ddrps_v1_0/src'
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::"Compiling ddrps"
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:19::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/ddrps_v1_0/src'
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-06-12.13:03:19::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-06-12.13:03:19::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:19::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/devcfg_v3_5/src'
+
+TRACE::2026-06-12.13:03:19::SCWBDomain::"Compiling devcfg"
+
+TRACE::2026-06-12.13:03:20::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:20::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/devcfg_v3_5/src'
+
+TRACE::2026-06-12.13:03:20::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_5/src"
+
+TRACE::2026-06-12.13:03:20::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2026-06-12.13:03:20::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2026-06-12.13:03:20::SCWBDomain::iles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:20::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:20::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/dmaps_v2_5/src'
+
+TRACE::2026-06-12.13:03:20::SCWBDomain::"Compiling dmaps"
+
+TRACE::2026-06-12.13:03:20::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:20::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/dmaps_v2_5/src'
+
+TRACE::2026-06-12.13:03:20::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_1/src"
+
+TRACE::2026-06-12.13:03:20::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v4_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-06-12.13:03:20::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-06-12.13:03:20::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:20::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:20::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/scugic_v4_1/src'
+
+TRACE::2026-06-12.13:03:20::SCWBDomain::"Compiling scugic"
+
+TRACE::2026-06-12.13:03:21::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:21::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/scugic_v4_1/src'
+
+TRACE::2026-06-12.13:03:21::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+
+TRACE::2026-06-12.13:03:21::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2026-06-12.13:03:21::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2026-06-12.13:03:21::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:21::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:21::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/scutimer_v2_1/src'
+
+TRACE::2026-06-12.13:03:21::SCWBDomain::"Compiling scutimer"
+
+TRACE::2026-06-12.13:03:21::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:21::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/scutimer_v2_1/src'
+
+TRACE::2026-06-12.13:03:21::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+
+TRACE::2026-06-12.13:03:21::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-06-12.13:03:21::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-06-12.13:03:21::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:21::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:21::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/scuwdt_v2_1/src'
+
+TRACE::2026-06-12.13:03:21::SCWBDomain::"Compiling scuwdt"
+
+TRACE::2026-06-12.13:03:21::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:21::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/scuwdt_v2_1/src'
+
+TRACE::2026-06-12.13:03:22::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_1/src"
+
+TRACE::2026-06-12.13:03:22::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v7_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2026-06-12.13:03:22::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2026-06-12.13:03:22::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:22::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:22::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7_1/src'
+
+TRACE::2026-06-12.13:03:22::SCWBDomain::"Compiling standalone"
+
+TRACE::2026-06-12.13:03:25::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:25::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7_1/src'
+
+TRACE::2026-06-12.13:03:25::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_8/src"
+
+TRACE::2026-06-12.13:03:25::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-06-12.13:03:25::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-06-12.13:03:25::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:25::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:25::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/uartps_v3_8/src'
+
+TRACE::2026-06-12.13:03:25::SCWBDomain::"Compiling uartps"
+
+TRACE::2026-06-12.13:03:25::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:25::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/uartps_v3_8/src'
+
+TRACE::2026-06-12.13:03:25::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+
+TRACE::2026-06-12.13:03:25::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-06-12.13:03:25::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-06-12.13:03:25::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:25::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:25::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/xadcps_v2_3/src'
+
+TRACE::2026-06-12.13:03:25::SCWBDomain::"Compiling xadcps"
+
+TRACE::2026-06-12.13:03:26::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:26::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/xadcps_v2_3/src'
+
+TRACE::2026-06-12.13:03:26::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xilffs_v4_2/src"
+
+TRACE::2026-06-12.13:03:26::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-06-12.13:03:26::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-06-12.13:03:26::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:26::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:26::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilffs_v4_2/src'
+
+TRACE::2026-06-12.13:03:26::SCWBDomain::"Compiling XilFFs Library"
+
+TRACE::2026-06-12.13:03:26::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:26::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/xilffs_v4_2/src'
+
+TRACE::2026-06-12.13:03:26::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xilrsa_v1_5/src"
+
+TRACE::2026-06-12.13:03:26::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-06-12.13:03:26::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-06-12.13:03:26::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::make[2]: Entering directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zy
+TRACE::2026-06-12.13:03:27::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilrsa_v1_5/src'
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::make[2]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:27::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/libsrc/xilrsa_v1_5/src'
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::'Finished building libraries'
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::make[1]: Leaving directory 'F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zyn
+TRACE::2026-06-12.13:03:27::SCWBDomain::q_fsbl_bsp'
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c sd.c -o sd.o -Izynq_fsbl_bsp/ps7_cortexa9_0/
+TRACE::2026-06-12.13:03:27::SCWBDomain::include -I.
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c nand.c -o nand.o -Izynq_fsbl_bsp/ps7_cortexa
+TRACE::2026-06-12.13:03:27::SCWBDomain::9_0/include -I.
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c nor.c -o nor.o -Izynq_fsbl_bsp/ps7_cortexa9_
+TRACE::2026-06-12.13:03:27::SCWBDomain::0/include -I.
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c image_mover.c -o image_mover.o -Izynq_fsbl_b
+TRACE::2026-06-12.13:03:27::SCWBDomain::sp/ps7_cortexa9_0/include -I.
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c md5.c -o md5.o -Izynq_fsbl_bsp/ps7_cortexa9_
+TRACE::2026-06-12.13:03:27::SCWBDomain::0/include -I.
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c fsbl_hooks.c -o fsbl_hooks.o -Izynq_fsbl_bsp
+TRACE::2026-06-12.13:03:27::SCWBDomain::/ps7_cortexa9_0/include -I.
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c main.c -o main.o -Izynq_fsbl_bsp/ps7_cortexa
+TRACE::2026-06-12.13:03:27::SCWBDomain::9_0/include -I.
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c rsa.c -o rsa.o -Izynq_fsbl_bsp/ps7_cortexa9_
+TRACE::2026-06-12.13:03:27::SCWBDomain::0/include -I.
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c qspi.c -o qspi.o -Izynq_fsbl_bsp/ps7_cortexa
+TRACE::2026-06-12.13:03:27::SCWBDomain::9_0/include -I.
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c ps7_init.c -o ps7_init.o -Izynq_fsbl_bsp/ps7
+TRACE::2026-06-12.13:03:27::SCWBDomain::_cortexa9_0/include -I.
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c pcap.c -o pcap.o -Izynq_fsbl_bsp/ps7_cortexa
+TRACE::2026-06-12.13:03:27::SCWBDomain::9_0/include -I.
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c fsbl_handoff.S -o fsbl_handoff.o -Izynq_fsbl
+TRACE::2026-06-12.13:03:27::SCWBDomain::_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2026-06-12.13:03:27::SCWBDomain::arm-none-eabi-gcc -o executable.elf  sd.o  nand.o  nor.o  image_mover.o  md5.o  fsbl_hooks.o  main.o  rsa.o  qspi.o  ps7_init.o
+TRACE::2026-06-12.13:03:27::SCWBDomain::  pcap.o  fsbl_handoff.o -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=
+TRACE::2026-06-12.13:03:27::SCWBDomain::hard -Wl,-build-id=none -specs=Xilinx.spec  -lrsa -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxi
+TRACE::2026-06-12.13:03:27::SCWBDomain::l,-lgcc,-lc,--end-group -Wl,--start-group,-lrsa,-lxil,-lgcc,-lc,--end-group                              -Wl,--gc-sections -Lzy
+TRACE::2026-06-12.13:03:27::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/lib -L./ -Tlscript.ld
+
+LOG::2026-06-12.13:03:28::SCWSystem::Checking the domain standalone_domain
+LOG::2026-06-12.13:03:28::SCWSystem::Not a boot domain 
+LOG::2026-06-12.13:03:28::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2026-06-12.13:03:28::SCWDomain::Generating domain artifcats
+TRACE::2026-06-12.13:03:28::SCWMssOS::Generating standalone artifcats
+TRACE::2026-06-12.13:03:28::SCWMssOS::Copying the qemu file from  C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt To F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/qemu/
+TRACE::2026-06-12.13:03:28::SCWMssOS::Copying the qemu file from  C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt To F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_domain/qemu/
+TRACE::2026-06-12.13:03:28::SCWMssOS:: Copying the user libraries. 
+TRACE::2026-06-12.13:03:28::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:28::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:28::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:28::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:03:28::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:28::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:03:28::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:03:28::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:03:28::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:03:28::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:03:28::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:03:28::SCWMssOS::Completed writing the mss file at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2026-06-12.13:03:28::SCWMssOS::Mss edits present, copying mssfile into export location F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:03:28::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2026-06-12.13:03:28::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2026-06-12.13:03:28::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2026-06-12.13:03:28::SCWMssOS::doing bsp build ... 
+TRACE::2026-06-12.13:03:28::SCWMssOS::System Command Ran  F: & cd  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp & make 
+TRACE::2026-06-12.13:03:28::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/axidma_v9_10/src"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::make -C ps7_cortexa9_0/libsrc/axidma_v9_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2026-06-12.13:03:28::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2026-06-12.13:03:28::SCWMssOS::tartfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_6/src"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2026-06-12.13:03:28::SCWMssOS::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2026-06-12.13:03:28::SCWMssOS::ard -nostartfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_8/src"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2026-06-12.13:03:28::SCWMssOS::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2026-06-12.13:03:28::SCWMssOS:: -nostartfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2026-06-12.13:03:28::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2026-06-12.13:03:28::SCWMssOS::rtfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-06-12.13:03:28::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-06-12.13:03:28::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_5/src"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2026-06-12.13:03:28::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2026-06-12.13:03:28::SCWMssOS::rtfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_1/src"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v4_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-06-12.13:03:28::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-06-12.13:03:28::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2026-06-12.13:03:28::SCWMssOS::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2026-06-12.13:03:28::SCWMssOS::startfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-06-12.13:03:28::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-06-12.13:03:28::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_1/src"
+
+TRACE::2026-06-12.13:03:28::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v7_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2026-06-12.13:03:28::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2026-06-12.13:03:28::SCWMssOS::nostartfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:29::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_8/src"
+
+TRACE::2026-06-12.13:03:29::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-06-12.13:03:29::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-06-12.13:03:29::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:29::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+
+TRACE::2026-06-12.13:03:29::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-06-12.13:03:29::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-06-12.13:03:29::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:29::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/axidma_v9_10/src"
+
+TRACE::2026-06-12.13:03:29::SCWMssOS::make -C ps7_cortexa9_0/libsrc/axidma_v9_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2026-06-12.13:03:29::SCWMssOS::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2026-06-12.13:03:29::SCWMssOS::tfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:29::SCWMssOS::"Compiling axidma"
+
+TRACE::2026-06-12.13:03:29::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_6/src"
+
+TRACE::2026-06-12.13:03:29::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2026-06-12.13:03:29::SCWMssOS::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2026-06-12.13:03:29::SCWMssOS:: -nostartfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:29::SCWMssOS::"Compiling coresightps_dcc"
+
+TRACE::2026-06-12.13:03:30::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_8/src"
+
+TRACE::2026-06-12.13:03:30::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2026-06-12.13:03:30::SCWMssOS::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2026-06-12.13:03:30::SCWMssOS::ostartfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:30::SCWMssOS::"Compiling cpu_cortexa9"
+
+TRACE::2026-06-12.13:03:30::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+
+TRACE::2026-06-12.13:03:30::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2026-06-12.13:03:30::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2026-06-12.13:03:30::SCWMssOS::iles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:30::SCWMssOS::"Compiling ddrps"
+
+TRACE::2026-06-12.13:03:30::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+
+TRACE::2026-06-12.13:03:30::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-06-12.13:03:30::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-06-12.13:03:30::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:30::SCWMssOS::"Compiling devcfg"
+
+TRACE::2026-06-12.13:03:30::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_5/src"
+
+TRACE::2026-06-12.13:03:30::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2026-06-12.13:03:30::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2026-06-12.13:03:30::SCWMssOS::iles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:30::SCWMssOS::"Compiling dmaps"
+
+TRACE::2026-06-12.13:03:31::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_1/src"
+
+TRACE::2026-06-12.13:03:31::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v4_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-06-12.13:03:31::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-06-12.13:03:31::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:31::SCWMssOS::"Compiling scugic"
+
+TRACE::2026-06-12.13:03:31::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+
+TRACE::2026-06-12.13:03:31::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2026-06-12.13:03:31::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2026-06-12.13:03:31::SCWMssOS::rtfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:31::SCWMssOS::"Compiling scutimer"
+
+TRACE::2026-06-12.13:03:32::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+
+TRACE::2026-06-12.13:03:32::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-06-12.13:03:32::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-06-12.13:03:32::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:32::SCWMssOS::"Compiling scuwdt"
+
+TRACE::2026-06-12.13:03:32::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_1/src"
+
+TRACE::2026-06-12.13:03:32::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v7_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2026-06-12.13:03:32::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2026-06-12.13:03:32::SCWMssOS::tartfiles -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:32::SCWMssOS::"Compiling standalone"
+
+TRACE::2026-06-12.13:03:35::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_8/src"
+
+TRACE::2026-06-12.13:03:35::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-06-12.13:03:35::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-06-12.13:03:35::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:35::SCWMssOS::"Compiling uartps"
+
+TRACE::2026-06-12.13:03:36::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+
+TRACE::2026-06-12.13:03:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-06-12.13:03:36::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-06-12.13:03:36::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2026-06-12.13:03:36::SCWMssOS::"Compiling xadcps"
+
+TRACE::2026-06-12.13:03:37::SCWMssOS::'Finished building libraries'
+
+TRACE::2026-06-12.13:03:37::SCWMssOS::Copying to export directory.
+TRACE::2026-06-12.13:03:37::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2026-06-12.13:03:37::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2026-06-12.13:03:37::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2026-06-12.13:03:37::SCWSystem::Completed Processing the sysconfig design_1_wrapper
+LOG::2026-06-12.13:03:37::SCWPlatform::Completed generating the artifacts for system configuration design_1_wrapper
+TRACE::2026-06-12.13:03:37::SCWPlatform::Started preparing the platform 
+TRACE::2026-06-12.13:03:37::SCWSystem::Writing the bif file for system config design_1_wrapper
+TRACE::2026-06-12.13:03:37::SCWSystem::dir created 
+TRACE::2026-06-12.13:03:37::SCWSystem::Writing the bif 
+TRACE::2026-06-12.13:03:37::SCWPlatform::Started writing the spfm file 
+TRACE::2026-06-12.13:03:37::SCWPlatform::Started writing the xpfm file 
+TRACE::2026-06-12.13:03:37::SCWPlatform::Completed generating the platform
+TRACE::2026-06-12.13:03:37::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:03:37::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:03:37::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:03:37::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:03:37::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:03:37::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:03:37::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:03:37::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:03:37::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:03:37::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:03:37::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:03:37::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:03:37::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:03:37::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:03:37::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-12.13:03:37::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:03:37::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:03:37::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:03:37::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:03:37::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:03:37::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:03:37::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:03:37::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:03:37::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:03:37::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:03:37::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:03:37::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:03:37::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:03:37::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:03:37::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:03:37::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"c46cc3715d8c4409611505be9cdf2e69",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.2", "xilrsa:1.5"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"C:/Xilinx/Vitis/Vitis/2019.2/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"4c20d4fd38032b4b82c04976bfd30b2b",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2026-06-12.13:03:37::SCWPlatform::updated the xpfm file.
+TRACE::2026-06-12.13:03:37::SCWPlatform::Trying to open the hw design at F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA given F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA absoulate path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform::DSA directory F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw
+TRACE::2026-06-12.13:03:37::SCWPlatform:: Platform Path F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2026-06-12.13:03:37::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-06-12.13:03:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-12.13:03:37::SCWMssOS::Checking the sw design at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-06-12.13:03:37::SCWMssOS::DEBUG:  swdes dump  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-12.13:03:37::SCWMssOS::Sw design exists and opened at  F:/HCMUTE/SECOND/2_HW_SW/tutorial_final_project/tuto_final_workspace/design_1_wrapper/ps7_cortexa9_0/standalone_domain/bsp/system.mss
