@@ -26,7 +26,7 @@ module tb_xfft_8;
     wire event_data_in_channel_halt;
     wire event_data_out_channel_halt;
 
-    // Clock 100 MHz
+    // Clock 100 MHz (Chu k? 10ns)
     initial begin
         aclk = 0;
         forever #5 aclk = ~aclk;
@@ -70,27 +70,28 @@ module tb_xfft_8;
         end
     endfunction
 
+    // Task truy?n 1 m?u (?ã t?i ?u ch?y liên t?c - Burst)
     task send_sample;
         input [63:0] data;
         input last;
         begin
-            @(posedge aclk);
             s_axis_data_tdata  <= data;
             s_axis_data_tvalid <= 1'b1;
             s_axis_data_tlast  <= last;
 
+            // ??i 1 c?nh lên c?a clock ?? d? li?u ???c ch?t
+            @(posedge aclk);
+
+            // N?u IP ch?a s?n sàng, ti?p t?c ??i
             while (!s_axis_data_tready) begin
                 @(posedge aclk);
             end
-
-            @(posedge aclk);
-            s_axis_data_tvalid <= 1'b0;
-            s_axis_data_tlast  <= 1'b0;
-            s_axis_data_tdata  <= 64'd0;
         end
     endtask
 
+    // Kh?i t?o d? li?u kích thích (Stimulus)
     initial begin
+        // Kh?i t?o tín hi?u
         aresetn = 0;
 
         s_axis_config_tdata  = 8'h01;   // Forward FFT
@@ -100,11 +101,11 @@ module tb_xfft_8;
         s_axis_data_tvalid = 0;
         s_axis_data_tlast  = 0;
 
-        m_axis_data_tready = 1'b1;
+        m_axis_data_tready = 1'b1; // Luôn s?n sàng nh?n k?t qu? ??u ra
 
         #100;
-        aresetn = 1;
-        #50;
+        aresetn = 1; // Gi?i phóng reset
+        #20;
 
         // G?i config cho FFT IP
         @(posedge aclk);
@@ -122,6 +123,8 @@ module tb_xfft_8;
         // Input gi?ng code Vitis:
         // 11+23i, 32+10i, 91+94i, 15+69i,
         // 47+96i, 44+12i, 96+17i, 49+58i
+        @(posedge aclk);
+        $display("--- B?T ??U TRUY?N D? LI?U ---");
 
         send_sample(complex_float(32'h41300000, 32'h41B80000), 1'b0); // 11 + 23i
         send_sample(complex_float(32'h42000000, 32'h41200000), 1'b0); // 32 + 10i
@@ -132,9 +135,28 @@ module tb_xfft_8;
         send_sample(complex_float(32'h42C00000, 32'h41880000), 1'b0); // 96 + 17i
         send_sample(complex_float(32'h42440000, 32'h42680000), 1'b1); // 49 + 58i, TLAST
 
+        // Ng?t Valid ngay sau khi truy?n xong m?u cu?i
+        s_axis_data_tvalid <= 1'b0;
+        s_axis_data_tlast  <= 1'b0;
+        s_axis_data_tdata  <= 64'd0;
+        
+        $display("--- K?T THÚC TRUY?N D? LI?U ---");
+
+        // Ch? IP tính toán và xu?t k?t qu?
         #2000;
 
+        $display("--- K?T THÚC MÔ PH?NG ---");
         $stop;
+    end
+
+    // Kh?i giám sát và in k?t qu? ??u ra
+    integer sample_count = 0;
+    always @(posedge aclk) begin
+        if (aresetn && m_axis_data_tvalid && m_axis_data_tready) begin
+            $display("Time: %0t ns | M?u ra #%0d | Real (Hex): %h | Imag (Hex): %h", 
+                     $time, sample_count, m_axis_data_tdata[31:0], m_axis_data_tdata[63:32]);
+            sample_count = sample_count + 1;
+        end
     end
 
 endmodule
