@@ -1,0 +1,27 @@
+# Vivado/Vitis temporary files
+.Xil/
+*.log
+*.jou
+*.backup.jou
+*.backup.log
+*~
+# Draw.io backup files
+.*.bkp
+
+# Vivado project build directories
+final_project/final_project.cache/
+final_project/final_project.gen/
+final_project/final_project.hw/
+final_project/final_project.ip_user_files/
+final_project/final_project.runs/
+final_project/final_project.sim/
+final_project/workspace_final/
+
+# Tutorial project build directories
+tutorial_final_project_N16/tutorial_final_project.cache/
+tutorial_final_project_N16/tutorial_final_project.gen/
+tutorial_final_project_N16/tutorial_final_project.hw/
+tutorial_final_project_N16/tutorial_final_project.ip_user_files/
+tutorial_final_project_N16/tutorial_final_project.runs/
+tutorial_final_project_N16/tutorial_final_project.sim/
+tutorial_final_project_N16/tuto_final_workspace/
