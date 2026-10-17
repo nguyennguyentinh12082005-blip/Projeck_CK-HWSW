@@ -21,7 +21,7 @@ Dưới đây là video demo chạy mô phỏng và giới thiệu chi tiết v�
 ## ⚙️ Sơ Đồ Khối Hệ Thống
 Hệ thống bao gồm các thành phần chính:
 1. **Processing System (PS):** Bộ vi xử lý ARM điều khiển quá trình cấu hình DMA, chuẩn bị dữ liệu đầu vào và kiểm tra kết quả đầu ra.
-2. **AXI DMA:** Trung chuyển dữ liệu tốc độ cao giữa DDR RAM và FFT IP.
+2. **AXI DMA:** Trung chuyển dữ liệu tốc độ cao giữa DDR RAM và FFT IP qua hai kênh: MM2S (Memory-Mapped to Stream) và S2MM (Stream to Memory-Mapped).
 3. **FFT IP Core:** Thực hiện tính toán FFT 8 điểm trực tiếp trên phần cứng FPGA.
 
 ## 📊 Kết Quả Đánh Giá (Mô Phỏng)
