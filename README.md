@@ -24,6 +24,24 @@ Hệ thống bao gồm các thành phần chính:
 2. **AXI DMA:** Trung chuyển dữ liệu tốc độ cao giữa DDR RAM và FFT IP qua hai kênh: MM2S (Memory-Mapped to Stream) và S2MM (Stream to Memory-Mapped).
 3. **FFT IP Core:** Thực hiện tính toán FFT 8 điểm trực tiếp trên phần cứng FPGA.
 
+## 🚀 Hướng Dẫn Mở Và Kiểm Tra Dự Án
+
+### Môi Trường Và Tệp Chính
+
+- Dự án được lưu bằng **Vivado 2019.2**, cấu hình cho **ZedBoard** với FPGA `xc7z020clg484-1`.
+- Mở tệp [tutorial_final_project.xpr](tutorial_final_project_N16/tutorial_final_project.xpr) trong Vivado để xem Block Design và cấu hình các IP.
+- Mã ứng dụng phía PS nằm trong [helloworld.c](tutorial_final_project_N16/tuto_final_workspace/tuto_vitis/src/helloworld.c); workspace Vitis nằm tại `tutorial_final_project_N16/tuto_final_workspace/`.
+
+### Mô Phỏng FFT IP
+
+1. Mở dự án Vivado, kiểm tra các tệp nguồn và tạo lại **Generate Output Products** cho Block Design nếu công cụ yêu cầu.
+2. Trong **Simulation Sources**, chọn `tb_xfft_8` làm top mô phỏng. Testbench nằm trong [tb_fft.v](tutorial_final_project_N16/tutorial_final_project.srcs/sim_1/new/tb_fft.v).
+3. Chọn **Run Simulation → Run Behavioral Simulation**. Testbench gửi 8 mẫu số phức, đánh dấu mẫu cuối bằng `TLAST` và in phần thực, phần ảo của dữ liệu đầu ra ở dạng hexadecimal trong cửa sổ Tcl Console.
+
+### Kiểm Tra Ứng Dụng PS/PL
+
+Ứng dụng `helloworld.c` tính FFT bằng phần mềm trên PS, truyền cùng bộ dữ liệu tới FFT IP qua AXI DMA rồi in kết quả PS/PL và thời gian thực thi qua UART. Khi chạy trên phần cứng, cần build ứng dụng trong Vitis với platform tương ứng, nạp bitstream và theo dõi UART để đối chiếu kết quả.
+
 ## 📊 Kết Quả Đánh Giá (Mô Phỏng)
 ### Tài Nguyên Phần Cứng Sử Dụng (Vivado Implementation)
 - **LUT:** 8,511
